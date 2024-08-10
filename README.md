@@ -43,7 +43,7 @@ WordPress Scraper by FRENZY is a Python-based tool with a PyQt5 GUI for scraping
 1. Run the application:
 
     ```bash
-    python main.py
+    python WPscraper-GUI.py
     ```
 
 2. **Keyword File**: Upload a text file containing the keywords you want to search.

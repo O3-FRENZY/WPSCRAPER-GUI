@@ -23,13 +23,13 @@ WordPress Scraper by FRENZY is a Python-based tool with a PyQt5 GUI for scraping
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/wordpress-scraper.git
+    git clone https://github.com/O3-FRENZY/WPSCRAPER-GUI.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd wordpress-scraper
+    cd WPSCRAPER-GUI
     ```
 
 3. Install the required packages:
